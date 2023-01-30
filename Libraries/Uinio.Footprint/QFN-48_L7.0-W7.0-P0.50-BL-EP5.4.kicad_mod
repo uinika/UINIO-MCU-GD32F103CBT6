@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tedit 62DE51D2)
   (attr through_hole)
-  (fp_text reference "REF**" (at -2.2 5.5) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -3.207) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
     (tstamp b36b9308-28a2-4892-8bc6-c77e87732cfc)
   )
@@ -671,9 +671,9 @@
   (pad "47" smd rect (at -3.5 2.25) (size 0.8 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1dc0f0b5-6747-4def-a6cc-aa12eb676424))
   (pad "48" smd rect (at -3.5 2.75) (size 0.8 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 920c76cb-a525-4404-bbb5-fe551d48e065))
   (pad "49" smd rect (at 0 0) (size 5.4 5.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 53a097ff-ce0e-453b-84f3-dc701ddca8c7))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/QFN-48_L7.0-W7.0-P0.50-BL-EP5.4.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
+    (rotate (xyz 0 0 0))
   )
 )
