@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.11)*%
-%TF.CreationDate,2023-01-31T11:35:00+08:00*%
+%TF.CreationDate,2023-01-31T14:13:47+08:00*%
 %TF.ProjectId,UINIO-MCU-GD32F103C,55494e49-4f2d-44d4-9355-2d4744333246,Version 1.0.0*%
 %TF.SameCoordinates,PX9357ba0PY5667240*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.11)) date 2023-01-31 11:35:00*
+G04 Created by KiCad (PCBNEW (6.0.11)) date 2023-01-31 14:13:47*
 %MOMM*%
 %LPD*%
 G01*
