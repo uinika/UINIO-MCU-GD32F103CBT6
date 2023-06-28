@@ -1,6 +1,6 @@
 # UINIO-MCU-GD32F103C 评估板
 
-这是一款基于 **LQFP48** 封装的国产 [**兆易创新**](https://www.gigadevice.com.cn/) **GD32F103Cxxx** 系列微控制器（`GD32F103CBT6`、`GD32F103C8T6`、`GD32F103C6T6`、`GD32F103C4T6`）的评估板电路设计，该微控制器基于 **ARM Cortex-M3** 内核，主频达到了 `108MHz`，片上载有 `16K ~ 128K` 容量的 Flash 存储器，以及 `6K ~ 20K` 的 SRAM 存储器，并且拥有 2 到 3 组 `USART`、`I2C`、`SPI`，以及 1 到 2 组 `I2S`、`12 位 ADC`、`12 位 DAC`，同时依然支持 **USB 2.0 FS OTG**。
+这是一款基于 [**兆易创新**](https://www.gigadevice.com.cn/) 国产 **LQFP48** 封装 **GD32F103Cxxx** 系列微控制器（`GD32F103CBT6`、`GD32F103C8T6`、`GD32F103C6T6`、`GD32F103C4T6`）的评估板电路设计，该微控制器基于 **ARM Cortex-M3** 内核，主频达到了 `108MHz`，片上载有 `16K ~ 128K` 容量的 Flash 存储器，以及 `6K ~ 20K` 的 SRAM 存储器，并且拥有 2 到 3 组 `USART`、`I2C`、`SPI`，以及 1 到 2 组 `I2S`、`12 位 ADC`、`12 位 DAC`，同时依然支持 **USB 2.0 FS OTG**。
 
 ![](./Images/PCB-3D-1.png)
 
