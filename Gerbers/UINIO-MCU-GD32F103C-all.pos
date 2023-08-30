@@ -1,5 +1,5 @@
-### Footprint positions - created on Mon Jul 10 15:43:33 2023 ###
-### Printed by KiCad version 7.0.6
+### Footprint positions - created on Wed Aug 30 17:48:58 2023 ###
+### Printed by KiCad version 7.0.7
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
@@ -20,8 +20,8 @@ C12       20pF              C_0402_1005Metric                     7.0891    -6.0
 D1        LED_Red           LED_0603_1608Metric                 -22.2209    -6.0621    0.0000  top
 HOLE**    Hole-1mm          Hole-1mm                            -34.6809    -2.5521  180.0000  top
 HOLE**    Hole-1mm          Hole-1mm                             29.5791    -2.5521  180.0000  top
-HOLE**    Hole-1mm          Hole-1mm                            -34.6809   -17.7721  180.0000  top
 HOLE**    Hole-1mm          Hole-1mm                             29.5791   -17.7621  180.0000  top
+HOLE**    Hole-1mm          Hole-1mm                            -34.6809   -17.7721  180.0000  top
 J3        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      29.8691    -6.3721    0.0000  top
 L1        1KΩ_100Mhz       L_0603_1608Metric                    12.1691   -10.1771  180.0000  top
 R1        2K                R_0402_1005Metric                   -21.9409    -7.4521  180.0000  top
@@ -34,6 +34,8 @@ R7        1M                R_0402_1005Metric                     3.3291    -8.6
 R8        10K               R_0402_1005Metric                    23.5891    -8.9121    0.0000  top
 R9        10K               R_0402_1005Metric                    23.5991   -11.4521  180.0000  top
 R10       10K               R_0402_1005Metric                    12.1691   -12.1771    0.0000  top
+R11       5.1K              R_0402_1005Metric                   -21.9409    -4.6600  180.0000  top
+R12       5.1K              R_0402_1005Metric                   -19.5309   -10.3400   90.0000  top
 SW1       BOOT1             KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     19.0791    -7.2771  180.0000  top
 SW2       NRST              KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7    -15.1709   -10.2221  -90.0000  top
 SW3       BOOT0             KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     19.0791   -13.0271    0.0000  top
