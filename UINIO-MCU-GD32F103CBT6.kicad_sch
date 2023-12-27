@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "UINIO-MCU-GD32F103C")
-    (date "2023-08-30")
-    (rev "Version 3.0.0")
+    (title "UINIO-MCU-GD32F103CBT6")
+    (date "2023-12-27")
+    (rev "Version 3.1.0")
     (company "电子技术博客 UinIO.com")
   )
 
@@ -3041,7 +3041,7 @@
     (pin "1" (uuid 094a7c2e-35ab-4fc4-aeec-9d08c85c9ed3))
     (pin "2" (uuid 2ad0eaec-3a77-4ee0-a45f-402134c57086))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C5") (unit 1)
         )
@@ -3067,7 +3067,7 @@
     (pin "1" (uuid d7716215-e97d-47e0-96ae-20d75dd92380))
     (pin "2" (uuid 8d154570-d7f0-4cc2-8b6b-786e9db091f7))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C9") (unit 1)
         )
@@ -3101,7 +3101,7 @@
     (pin "3" (uuid d3c18274-b461-4e48-a4ab-486a9fe0bbd9))
     (pin "4" (uuid 4295822c-c5d4-444f-b5d1-257c8834269c))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "SW2") (unit 1)
         )
@@ -3127,7 +3127,7 @@
     (pin "1" (uuid edbb4bee-bc85-4faf-b80c-d9c07e1c5ae7))
     (pin "2" (uuid 7873cfd4-72ce-4692-a778-bd7e66bef613))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C2") (unit 1)
         )
@@ -3152,7 +3152,7 @@
     )
     (pin "1" (uuid 3a4cefd6-336a-491b-b08f-af5cb0e57147))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR05") (unit 1)
         )
@@ -3178,7 +3178,7 @@
     (pin "1" (uuid 804e3872-f791-4d25-a53a-52d8ffee54db))
     (pin "2" (uuid 38e17b4a-8aa9-4bc9-b3f6-97a23df30d9a))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R1") (unit 1)
         )
@@ -3209,7 +3209,7 @@
           (reference "R8") (unit 1)
         )
       )
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R12") (unit 1)
         )
@@ -3234,7 +3234,7 @@
     )
     (pin "1" (uuid 3ecb5f1a-432a-40ff-a61a-9d3381043ba4))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR014") (unit 1)
         )
@@ -3259,7 +3259,7 @@
     )
     (pin "1" (uuid 1c86258d-5253-4d46-bfd0-420bf71c29dd))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR011") (unit 1)
         )
@@ -3285,7 +3285,7 @@
     (pin "1" (uuid 0dd9ab91-d1a8-43ac-a773-15f822f04350))
     (pin "2" (uuid c589e1b3-1e2b-4d68-9584-24f39e5dc771))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C10") (unit 1)
         )
@@ -3331,7 +3331,7 @@
     (pin "B7" (uuid fede3cc7-b875-403f-b1b7-c31d0f13bf4e))
     (pin "B8" (uuid bc165647-b9aa-443b-a23c-087d1cd4357b))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "USB1") (unit 1)
         )
@@ -3356,7 +3356,7 @@
     )
     (pin "1" (uuid f7febb0b-4ec1-462d-8b2d-8fd9b1fd5215))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR010") (unit 1)
         )
@@ -3382,7 +3382,7 @@
     (pin "1" (uuid 91be1c61-13f3-46ad-ace9-0ffb4733dba3))
     (pin "2" (uuid 140fbb7e-6a8c-4062-a59b-513beefa0877))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C3") (unit 1)
         )
@@ -3412,7 +3412,7 @@
           (reference "#PWR02") (unit 1)
         )
       )
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR08") (unit 1)
         )
@@ -3437,7 +3437,7 @@
     )
     (pin "1" (uuid 8cc0e763-5500-4810-8fba-fc832ae64b00))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR09") (unit 1)
         )
@@ -3462,7 +3462,7 @@
     )
     (pin "1" (uuid 54bba657-83a3-4061-9e2e-c012cf4dabd9))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#FLG01") (unit 1)
         )
@@ -3488,7 +3488,7 @@
     (pin "1" (uuid 8cec2779-7559-4d6b-8df3-e918d1985577))
     (pin "2" (uuid 789376e5-0d0c-4760-982e-2a9d59ed7965))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R8") (unit 1)
         )
@@ -3520,7 +3520,7 @@
     (pin "4" (uuid 7fa03e40-7799-406f-89e0-c3d59bd78dc6))
     (pin "5" (uuid ea35d317-571c-45db-b0ff-56919cd414cc))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "U1") (unit 1)
         )
@@ -3546,7 +3546,7 @@
     (pin "1" (uuid d0b9bea2-abfe-4081-af61-97ae167712d4))
     (pin "2" (uuid cc9115f5-de54-4a10-a569-cae1cc475253))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R4") (unit 1)
         )
@@ -3571,7 +3571,7 @@
     )
     (pin "1" (uuid 5ae086ba-90b5-463f-bd81-e2ba4f96a659))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR013") (unit 1)
         )
@@ -3605,7 +3605,7 @@
     (pin "3" (uuid 14e4639d-2a54-43ed-87c0-347169cc36bf))
     (pin "4" (uuid 3c4d4cf2-cfcd-45d3-a1b3-411fb7472d2a))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "SW1") (unit 1)
         )
@@ -3630,7 +3630,7 @@
     )
     (pin "1" (uuid 0e5077b6-1454-4c90-afae-443d9e8e60b3))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR021") (unit 1)
         )
@@ -3655,7 +3655,7 @@
     )
     (pin "1" (uuid d35bbea2-33fe-4903-8338-ad03f98457e4))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR025") (unit 1)
         )
@@ -3680,7 +3680,7 @@
     )
     (pin "1" (uuid b319c262-271b-4ab3-bd6b-2d47466eb209))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR02") (unit 1)
         )
@@ -3758,7 +3758,7 @@
     (pin "8" (uuid 4a277f44-7327-47ac-a8b3-acf7a0001f2e))
     (pin "9" (uuid 2507f86b-597d-4397-916c-5fcec205a909))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "U2") (unit 1)
         )
@@ -3783,7 +3783,7 @@
     )
     (pin "1" (uuid 71a9bf3a-d5f1-44c0-ae33-573eeb47d3b2))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR028") (unit 1)
         )
@@ -3808,7 +3808,7 @@
     )
     (pin "1" (uuid 881bd0ac-9e34-416e-ba33-745a3f88346e))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR018") (unit 1)
         )
@@ -3833,7 +3833,7 @@
     )
     (pin "1" (uuid a4c396d6-0d6b-4519-8900-78901cdc3e1a))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR015") (unit 1)
         )
@@ -3858,7 +3858,7 @@
     )
     (pin "1" (uuid a2b10cc2-64f0-44aa-b553-7e80851f330b))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR03") (unit 1)
         )
@@ -3883,7 +3883,7 @@
     )
     (pin "1" (uuid b64706d4-858f-4eff-a2e3-7be9b0334764))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR022") (unit 1)
         )
@@ -3909,7 +3909,7 @@
     (pin "1" (uuid 9429e8e0-a11e-4327-ae87-cac6203c9091))
     (pin "2" (uuid 2d11b5d2-55f3-4c81-9cd4-ff5824188924))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R2") (unit 1)
         )
@@ -3935,7 +3935,7 @@
     (pin "1" (uuid cc4536f3-c72f-4b9b-88a2-297c824a6f74))
     (pin "2" (uuid 24a8018a-2709-4010-ae7a-1c71125777db))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R6") (unit 1)
         )
@@ -3961,7 +3961,7 @@
     (pin "1" (uuid 0046ecb0-cb4c-47fe-be19-4dd7790e1a28))
     (pin "2" (uuid 6253a243-9a61-4df2-8950-3346ec8c5247))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R5") (unit 1)
         )
@@ -3986,7 +3986,7 @@
     )
     (pin "1" (uuid f6b1ea89-a295-4c1b-af1e-48cca9d34f50))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR016") (unit 1)
         )
@@ -4012,7 +4012,7 @@
     (pin "1" (uuid de3f8ebf-31b3-4fe1-a80c-a25548689b99))
     (pin "2" (uuid 976786c5-ec23-4061-882b-aab5506487d7))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C4") (unit 1)
         )
@@ -4037,7 +4037,7 @@
     )
     (pin "1" (uuid 46cd0c09-9190-4d18-b939-7c2ff9e68e7f))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR026") (unit 1)
         )
@@ -4063,7 +4063,7 @@
     (pin "1" (uuid 7bd93952-aefd-44a4-9233-64ae5317d478))
     (pin "2" (uuid 24910fbf-5611-4936-a876-ceda5cf01b2e))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R7") (unit 1)
         )
@@ -4094,7 +4094,7 @@
           (reference "R8") (unit 1)
         )
       )
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R11") (unit 1)
         )
@@ -4119,7 +4119,7 @@
     )
     (pin "1" (uuid 8b2a0bde-6ffd-4be3-aa07-17d0139958d7))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR01") (unit 1)
         )
@@ -4145,7 +4145,7 @@
     (pin "1" (uuid d889c963-a2aa-4932-a2f4-89562a1bb690))
     (pin "2" (uuid 908f5f91-94db-422b-89f5-29da48871009))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C11") (unit 1)
         )
@@ -4171,7 +4171,7 @@
     (pin "1" (uuid 9703bbdb-72b7-4f2f-aeba-179b186e3b96))
     (pin "2" (uuid 5b1f879c-68d5-401e-b965-25c66b6f4f75))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R3") (unit 1)
         )
@@ -4197,7 +4197,7 @@
     (pin "1" (uuid 02a9b1bf-9260-4eea-bb71-203e885c544d))
     (pin "2" (uuid 51cbdacd-046b-488b-b211-279d7c327b45))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C12") (unit 1)
         )
@@ -4245,7 +4245,7 @@
     (pin "8" (uuid 8c5577b7-2f9b-4866-a03f-5589baa43079))
     (pin "9" (uuid af447cce-990a-434e-9221-1a13de9368c1))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "J1") (unit 1)
         )
@@ -4271,7 +4271,7 @@
     (pin "1" (uuid 193dad44-53b7-4e62-a41b-45630892f83f))
     (pin "2" (uuid bd57ba74-8aec-4b66-abaa-5542276f322f))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C8") (unit 1)
         )
@@ -4296,7 +4296,7 @@
     )
     (pin "1" (uuid 7798c0fc-7919-437a-b558-5e9cec65d385))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR020") (unit 1)
         )
@@ -4322,7 +4322,7 @@
     (pin "1" (uuid ca912554-a005-4263-9575-5eb6632213a9))
     (pin "2" (uuid 23f2a0aa-eda9-4769-93f9-0646601dd3bb))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "L1") (unit 1)
         )
@@ -4350,7 +4350,7 @@
     (pin "3" (uuid 8a9104e3-c11c-46ba-8bdf-f995d0023592))
     (pin "4" (uuid 7eb5b80a-168c-412c-a91b-9f6d5eb49a41))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "Y2") (unit 1)
         )
@@ -4376,7 +4376,7 @@
     (pin "1" (uuid 65de809e-6351-4e87-9924-82693f9ac125))
     (pin "2" (uuid 49794ee6-de92-4c19-af02-75ac3b53ead4))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R10") (unit 1)
         )
@@ -4402,7 +4402,7 @@
     (pin "1" (uuid 65885d2d-2ac4-4410-b7b9-6a4acfc67a4d))
     (pin "2" (uuid fac242c0-3efe-42b0-86b0-61715f2f4931))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C6") (unit 1)
         )
@@ -4427,7 +4427,7 @@
     )
     (pin "1" (uuid 8bb4de27-eae7-490b-b016-c81ac590b7d8))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR04") (unit 1)
         )
@@ -4475,7 +4475,7 @@
     (pin "8" (uuid 48e03c10-fd1e-4218-b68c-903722c55981))
     (pin "9" (uuid 56c66658-5189-435f-bcfa-6c9c16dbc12c))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "J2") (unit 1)
         )
@@ -4501,7 +4501,7 @@
     (pin "1" (uuid 6babfd1b-a82b-4860-92cc-52b700442796))
     (pin "2" (uuid 56280499-c8d0-400d-aa04-7f6e607a1148))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "R9") (unit 1)
         )
@@ -4527,7 +4527,7 @@
     (pin "1" (uuid f23565d4-9d2b-4591-9c48-c9c3dbb15ac6))
     (pin "2" (uuid 7a0b9e1a-21cd-4a31-934d-cf1e78ae550a))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "D1") (unit 1)
         )
@@ -4553,7 +4553,7 @@
     (pin "1" (uuid 69cdf457-1203-44d5-854d-34725cea94c2))
     (pin "2" (uuid a319e14d-c88c-4d50-a707-71db672bbc9a))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C7") (unit 1)
         )
@@ -4578,7 +4578,7 @@
     )
     (pin "1" (uuid 6b090694-6436-4fca-baa3-1e602a2282be))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR06") (unit 1)
         )
@@ -4603,7 +4603,7 @@
     )
     (pin "1" (uuid 033c1133-4193-4d9a-a317-69210a4dff57))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#FLG02") (unit 1)
         )
@@ -4628,7 +4628,7 @@
     )
     (pin "1" (uuid 3b22c835-4690-4020-9cf1-4ecbfa57657b))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR019") (unit 1)
         )
@@ -4653,7 +4653,7 @@
     )
     (pin "1" (uuid 9008889c-6ad8-46b8-be4c-e6a0f0f93661))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR07") (unit 1)
         )
@@ -4679,7 +4679,7 @@
     (pin "1" (uuid ca762dc7-152f-40af-b05b-57376fcf51ca))
     (pin "2" (uuid 32680fe5-d7bb-4a8d-9866-9cb37c5cc2f6))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "C1") (unit 1)
         )
@@ -4704,7 +4704,7 @@
     )
     (pin "1" (uuid f49b5e8d-f220-4b59-96c4-0e0b75b11e04))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR023") (unit 1)
         )
@@ -4736,7 +4736,7 @@
     (pin "1" (uuid 223206a8-eb3d-44a3-9653-f29e84db0a55))
     (pin "2" (uuid 52a5c9e3-5731-4966-a913-f66a0aa67198))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "Y1") (unit 1)
         )
@@ -4770,7 +4770,7 @@
     (pin "3" (uuid b5496405-0825-4b98-a93c-616dcfeaa01e))
     (pin "4" (uuid 47b438b7-8a9d-40b2-95b2-5b64f87f16c3))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "SW3") (unit 1)
         )
@@ -4798,7 +4798,7 @@
     (pin "3" (uuid c0d50c86-d4db-463d-971d-dc5e2600bb4b))
     (pin "4" (uuid efd20cb9-763c-4f28-bcd0-c270ce32f878))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "J3") (unit 1)
         )
@@ -4823,7 +4823,7 @@
     )
     (pin "1" (uuid 71ed85ab-1c2d-4be0-8871-8619466dee65))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR027") (unit 1)
         )
@@ -4848,7 +4848,7 @@
     )
     (pin "1" (uuid 2b867470-0486-42d7-88c7-68f9239fcf2b))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR017") (unit 1)
         )
@@ -4873,7 +4873,7 @@
     )
     (pin "1" (uuid 82f1b1b5-b3f5-4d62-ba2d-7070fd495b6e))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR012") (unit 1)
         )
@@ -4898,7 +4898,7 @@
     )
     (pin "1" (uuid 6d3859eb-8059-4f7a-aeb5-de4236e53671))
     (instances
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR024") (unit 1)
         )
@@ -4928,7 +4928,7 @@
           (reference "#PWR02") (unit 1)
         )
       )
-      (project "UINIO-MCU-GD32F103C"
+      (project "UINIO-MCU-GD32F103CBT6"
         (path "/eeb3a4b9-cc42-48f4-a80d-47b4dcfcec11"
           (reference "#PWR029") (unit 1)
         )
