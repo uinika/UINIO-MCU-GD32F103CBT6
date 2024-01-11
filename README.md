@@ -13,3 +13,7 @@
 3. 单独提供有 4 线制 **SWD** 下载接口，便于快速与 **DAP-Link** 进行连接；
 4. 使用 `8MHz` 与 `32.768KHz` 两枚贴片晶振，并且分别进行了简单的**包地**处理；
 5. 主控芯片的 **USB 2.0 FS OTG** 被连接至 **USB Type-C** 接口，并且加入用于 USB 枚举的 `1.5 KΩ` 上拉电阻；
+
+## 配套开发文档
+
+对于 [UINIO-MCU-GD32F103CBT6](https://gitee.com/uinika/UINIO-MCU-GD32F103CBT6) 核心板的标准外设库开发，可以参考 [**UinIO.com 电子技术实验室**](https://www.uinio.com/) 里的专题文章 [《兆易创新 UINIO-MCU-GD32 标准库开发指南》](http://uinio.com/Project/UINIO-MCU-GD32/)，全文会不定期进行更新。
